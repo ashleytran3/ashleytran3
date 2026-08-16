@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=B.S.+Computer+Science+%40+UCLA;Full-Stack+Developer;Leveling+up+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=B.S.+Computer+Science+%40+UCLA;Full-Stack+Developer;Leveling+up+in+ML+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
@@ -78,8 +78,7 @@ Full-stack MERN marketplace for UCLA students — reusable listing/profile/searc
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashleytran3&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashleytran3&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ashleytran3&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">📫 Let's connect — <a href="mailto:ashlleynt@gmail.com">ashlleynt@gmail.com</a></p>
