@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ashley 👋🐔</h1>
 
-<h3 align="center">CS @ UCLA · Building things at the intersection of software, robotics & data</h3>
+<h3 align="center">CS @ UCLA</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ashleyntran3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
