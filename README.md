@@ -17,7 +17,7 @@
 
 - 🎓 CS @ UCLA (Dec. 2027)
 - 🛠️ I like building products people actually use — event platforms, marketplaces, accessible interfaces
-- - 👩‍💻 Developing internal tools and websites for **UCLA's Society of Women Engineers (SWE)**
+- 👩‍💻 Developing internal tools and websites for **UCLA's Society of Women Engineers (SWE)**
 - 🏆 Co-built **Talantis** at LA Hacks — Figma Make Challenge winner
 - 🌱 Currently learning more about **machine learning, RAG**, and other buzzwords I'm determined to actually understand
 - 🔧 Core stack: **React / Next.js / Node.js / TypeScript** + Python for data work
